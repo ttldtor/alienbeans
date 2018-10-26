@@ -28,3 +28,5 @@ The new Java IDE
 .      . . .   .  .  . ... :..:.."(  ..)"
  .   .       .      :  .   .: ::/  .  .::\
 ```
+
+![$kr34n$h07](alienbeans.png)
